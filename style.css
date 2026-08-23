@@ -155,3 +155,14 @@ footer{
   .about-box{width:100%}.about-box span{font-size:68px}.about-box strong{font-size:28px}
   footer{flex-direction:column;gap:12px;text-align:center}
 }
+/* Client photos */
+.client-photo img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  display:block;
+  transition:transform .45s ease;
+}
+.client-card:hover .client-photo img{
+  transform:scale(1.04);
+}
