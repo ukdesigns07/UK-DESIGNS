@@ -1,0 +1,23 @@
+{
+  "name": "uk-designs",
+  "version": "1.0.0",
+  "description": "UK DESIGNS - Creative Agency Website",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ukdesigns07/UK-DESIGNS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ukdesigns07/UK-DESIGNS/issues"
+  },
+  "homepage": "https://github.com/ukdesigns07/UK-DESIGNS#readme",
+  "dependencies": {
+    "@vercel/analytics": "^2.0.1"
+  }
+}
